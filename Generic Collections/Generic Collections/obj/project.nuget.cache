@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBRGt8wspqpuKKbQvGDoxFHS9joXzd0zCIy56CwXZPNd66CIU9bNoXtc8VGYjF6oXf12XddXs6QG8Gql+iVagw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell1\\source\\repos\\Generic Collections\\Generic Collections\\Generic Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
